@@ -1,4 +1,4 @@
-package com.mikebae.restaurantcheckin
+package com.mikeba.restaurantcheckin
 
 import org.junit.Test
 
